@@ -1,0 +1,17 @@
+# Esempio di variabile che contiene un numero intero
+numero = 5
+print(numero)  # Stampa il valore della variabile
+
+# Aggiornamento del valore della variabile
+numero = 8
+print(numero)
+
+# Acquisizione di input dall'utente e assegnazione a una variabile
+input_utente = input("Inserisci un valore: ")  # Nota: il risultato è una stringa
+print(input_utente)
+
+# Esempi di diversi tipi di dati in Python
+saluto = "ciao"  # Tipo stringa
+intero = 5  # Tipo intero
+numero_virgola_mobile = 5.6  # Tipo float
+numero_complesso = 4 + 3j  # Tipo complesso
